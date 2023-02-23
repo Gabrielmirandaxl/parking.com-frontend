@@ -100,6 +100,3 @@ As seguintes ferramentas/tecnologias foram usadas na construção e teste do pro
 <br>
 
 	
- [<Back](#olá-tudo-bem-me-chamo-gabriel-e-seja-bem-vindo-)
-
-
